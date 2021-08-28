@@ -13,7 +13,6 @@ function Header() {
     if (state.user) {
       auth.signOut();
       window.alert("Log out Succesful");
-      window.location.replace("https://pastuilo.github.io/");
     }
   };
 
