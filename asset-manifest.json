@@ -1,8 +1,8 @@
 {
   "files": {
     "main.css": "/magazinAmazon/static/css/main.e1025b37.chunk.css",
-    "main.js": "/magazinAmazon/static/js/main.5b2f6b7b.chunk.js",
-    "main.js.map": "/magazinAmazon/static/js/main.5b2f6b7b.chunk.js.map",
+    "main.js": "/magazinAmazon/static/js/main.10dfcc40.chunk.js",
+    "main.js.map": "/magazinAmazon/static/js/main.10dfcc40.chunk.js.map",
     "runtime-main.js": "/magazinAmazon/static/js/runtime-main.9ffd1bdd.js",
     "runtime-main.js.map": "/magazinAmazon/static/js/runtime-main.9ffd1bdd.js.map",
     "static/js/2.4a9dfd57.chunk.js": "/magazinAmazon/static/js/2.4a9dfd57.chunk.js",
@@ -17,6 +17,6 @@
     "static/js/runtime-main.9ffd1bdd.js",
     "static/js/2.4a9dfd57.chunk.js",
     "static/css/main.e1025b37.chunk.css",
-    "static/js/main.5b2f6b7b.chunk.js"
+    "static/js/main.10dfcc40.chunk.js"
   ]
 }
