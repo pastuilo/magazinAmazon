@@ -13,7 +13,7 @@ function Header() {
     if (state.user) {
       auth.signOut();
       window.alert("Log out Succesful");
-      window.location.replace("http://pastuilo.git.io/magazinAmazon/");
+      window.location.replace("https://pastuilo.github.io/");
     }
   };
 
