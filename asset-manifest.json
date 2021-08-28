@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/magazinAmazon/static/css/main.e1025b37.chunk.css",
+    "main.js": "/magazinAmazon/static/js/main.5b2f6b7b.chunk.js",
+    "main.js.map": "/magazinAmazon/static/js/main.5b2f6b7b.chunk.js.map",
+    "runtime-main.js": "/magazinAmazon/static/js/runtime-main.9ffd1bdd.js",
+    "runtime-main.js.map": "/magazinAmazon/static/js/runtime-main.9ffd1bdd.js.map",
+    "static/js/2.4a9dfd57.chunk.js": "/magazinAmazon/static/js/2.4a9dfd57.chunk.js",
+    "static/js/2.4a9dfd57.chunk.js.map": "/magazinAmazon/static/js/2.4a9dfd57.chunk.js.map",
+    "static/js/3.95d5070f.chunk.js": "/magazinAmazon/static/js/3.95d5070f.chunk.js",
+    "static/js/3.95d5070f.chunk.js.map": "/magazinAmazon/static/js/3.95d5070f.chunk.js.map",
+    "index.html": "/magazinAmazon/index.html",
+    "static/css/main.e1025b37.chunk.css.map": "/magazinAmazon/static/css/main.e1025b37.chunk.css.map",
+    "static/js/2.4a9dfd57.chunk.js.LICENSE.txt": "/magazinAmazon/static/js/2.4a9dfd57.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.9ffd1bdd.js",
+    "static/js/2.4a9dfd57.chunk.js",
+    "static/css/main.e1025b37.chunk.css",
+    "static/js/main.5b2f6b7b.chunk.js"
+  ]
+}
